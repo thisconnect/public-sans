@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/uswds/public-sans/issues"
   },
-  "homepage": "https://github.com/uswds/public-sans#readme",
+  "homepage": "https://github.com/thisconnect/public-sans#readme",
   "scripts": {
     "copy-webfonts": "gulp copy-webfonts",
     "federalist": "npm install && npm install gulp-cli -g && npm run uswds-copy-assets && npm run copy-webfonts && npm run uswds-build-sass",
