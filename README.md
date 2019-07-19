@@ -1,6 +1,9 @@
-# Public Sans
+# Public Sans (unofficial NPM version!)
 Current font files for the Public Sans typeface.
 This typeface is based off of https://github.com/impallari/Libre-Franklin
+
+## TODO
+- Transfer module to @uswds
 
 ## Usage
 - **Webfonts** are available in `fonts/webfonts`
