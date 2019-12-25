@@ -10,6 +10,7 @@
   },
   "style": "./public-sans.css",
   "files": [
+    "public-sans.css",
     "binaries/webfonts/*",
     "CONTRIBUTING.md",
     "FONTLOG.txt",
